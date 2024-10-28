@@ -20,15 +20,6 @@
 
 The **USB Door Monitor Application** is a Flutter-based mobile app that connects to USB serial devices to monitor the status of multiple doors in real-time. The app provides a user-friendly interface to view the status of each door and manage USB device connections seamlessly.
 
-## Architecture
-
-The application is designed following a modular architecture that separates concerns between the UI and the USB communication logic. This separation enhances maintainability, readability, and scalability.
-
-## File Structure
-
-- **main.dart**: The entry point of the application that contains the user interface and interacts with the `UsbService`.
-- **usb_service.dart**: Contains the logic for USB communication, including connecting to devices and parsing incoming data.
-
 ## Main Components
 
 ### `main.dart`
