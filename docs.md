@@ -3,18 +3,17 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [File Structure](#file-structure)
-3. [Main Components](#main-components)
+2. [Main Components](#main-components)
    - [main.dart](#maindart)
    - [usb_service.dart](#usbservicedart)
-4. [Data Flow](#data-flow)
+3. [Data Flow](#data-flow)
    - [1. USB Connection](#1-usb-connection)
    - [2. Connecting to a Device](#2-connecting-to-a-device)
    - [3. Data Transmission](#3-data-transmission)
    - [4. Updating the UI](#4-updating-the-ui)
-5. [User Interface](#user-interface)
-6. [How to Use](#how-to-use)
-7. [Conclusion](#conclusion)
+4. [User Interface](#user-interface)
+5. [How to Use](#how-to-use)
+6. [Conclusion](#conclusion)
 
 ## Overview
 
